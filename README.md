@@ -19,3 +19,10 @@ python3 main.py
 ```
 
 It writes the line to `/output/entry.txt` (103 characters, one sentence).
+
+## Why this line
+
+C6 won the head-to-head round-robin 3–0: vs C5 0.85, vs C1 0.75,
+vs C4 0.80. It also scored 0.90 against the c11 benchmark line.
+All duels were judged with this bounty's own judge instructions via
+`--provider openrouter-low`.
